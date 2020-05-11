@@ -38,7 +38,7 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#588adb"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
+author: Aliya Kunikeeva
   name: Aliya Kunikeeva
 
 # Select your active Social Network Links.
@@ -69,11 +69,11 @@ author:
 social-network-links:
  linkedin: aliyakunikeeva
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
+  email: "aliya-kunikeeva@lambdastudents.com"
+  facebook: aliyakunikeeva
+  github: alikunikeeva
+ # twitter: daattali
+ # reddit: alwaysanlagirl
 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -102,7 +102,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+#google_analytics: "UA-166119015-1"
 
 # Google Tag Manager ID
 #gtm: ""
